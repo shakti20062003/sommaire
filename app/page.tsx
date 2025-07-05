@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button";
-import Image from "next/image";
 import BgGradient from "@/components/common/bg-gradient";
 import HeroSection from "@/components/home/hero-section";
 import DemoSection from "@/components/home/demo-section";
