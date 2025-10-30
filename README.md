@@ -54,22 +54,10 @@ Make sure you have:
 - The summary is stored in PostgreSQL and displayed in the user’s dashboard.
 - Users can view, download, and manage summaries anytime.
 
-### 2. Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/shakti20062003/sommaire.git
-
-# Navigate to the project
-cd sommaire
-
-# Install dependencies
-npm install
-# or
-pnpm install
-
-👤 Author
+## 👤 Author
 
 Shakti Prasad Barik
 📧 Email: shaktiprasadbarik0490@gmail.com
 🌐 GitHub: https://github.com/shakti20062003
+
+
